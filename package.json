@@ -1,0 +1,20 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "lodash": "^4.17.21",
+    "parcel": "^2.7.0",
+    "regenerator": "^0.14.7",
+    "runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
